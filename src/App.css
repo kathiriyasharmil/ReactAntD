@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(45deg, #6695bb, #e7f0fd);
+  
+  scrollbar-width: 0;
+}
+webkit-scrollbar {
+  display: none;
+}
+img{
+  height: 100px;
+}
+.in{
+  padding-top: 1px;
+}
+.ant-popover-inner-content {
+  width: max-content;
+}

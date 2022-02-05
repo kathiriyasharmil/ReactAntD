@@ -1,0 +1,43 @@
+{
+  "DataStore": [
+    {
+      "id": "1642765720411",
+      "name": "jagure tata",
+      "age": "55",
+      "email": "jagure.tata@gmail.com",
+      "country": "UAE",
+      "gender": "Male",
+      "language": [
+        "Gujarati ",
+        "Hindi "
+      ],
+      "photo": "/static/media/my2.611e8313.jpg",
+      "check": 1
+    },
+    {
+      "id": "1642766797307",
+      "name": "kathiriya sharmil",
+      "age": "52",
+      "email": "kathiriya.sharmil@gmail.com",
+      "country": "INDIA",
+      "gender": "Male",
+      "language": [
+        "Gujarati ",
+        "Hindi ",
+        "English "
+      ],
+      "photo": "/static/media/my2.611e8313.jpg",
+      "check": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
